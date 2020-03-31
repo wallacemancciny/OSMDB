@@ -7,10 +7,12 @@ que capacidade.
 Os usuários do aplicativo de filme poderão acessar todas essas informações, mas também comentar em filmes e avalie-os. Essas classificações serão agregadas para referência de outros usuários, o que significa que os outros usuários possam ver as classificações médias e todos os comentários sobre um filme.
 Os administradores do aplicativo de filmes poderão adicionar novos (ou editar) filmes, como também atores ou membros da equipe e associe-os a um filme.
 
+
 <h1 align="center">
-    OSMDB 
+  OSMDB
+</h1>
+<h1 align="center">
     <img alt="OSMDB - Catálogo de Filmes" width="500" src="https://github.com/wallacemancciny/OSMDB/blob/master/Prints/capa.png" />
-    
 </h1>
 
 <h3 align="center">
