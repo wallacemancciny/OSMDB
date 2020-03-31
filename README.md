@@ -8,7 +8,7 @@ Os usuários do aplicativo de filme poderão acessar todas essas informações, 
 Os administradores do aplicativo de filmes poderão adicionar novos (ou editar) filmes, como também atores ou membros da equipe e associe-os a um filme.
 
 <h1 align="center">
-    <img alt="OSMDB - Catálogo de Filmes" src="" />
+    <img alt="OSMDB - Catálogo de Filmes" src="https://github.com/wallacemancciny/OSMDB/blob/master/Prints/capa.png" />
     <br>
     OSMDB 
 </h1>
@@ -30,8 +30,8 @@ Users of the movie application will be able to access all of this information, b
 actors or members of the crew and associate them with a movie.
   </p>
 
-  <img alt="OSMDB - Catálogo de Filmes" width="400" src="" />
-</div>
+  <img alt="OSMDB - Catálogo de Filmes" width="400" src="https://github.com/wallacemancciny/OSMDB/blob/master/Prints/capa.png" />
+
 
 ## 🖥 Technologies
 
@@ -43,7 +43,19 @@ This project was developed with outsystems, the platform has all the most advanc
 
 Below are some screenshots of the application in operation.
 
-  <img src="" />
+    </br>
+  <img width="400" src="https://github.com/wallacemancciny/OSMDB/blob/master/Prints/Screen%20Shot%202020-03-30%20at%2023.09.08.png" />
+    </br>
+  <img width="400" src="https://github.com/wallacemancciny/OSMDB/blob/master/Prints/Screen%20Shot%202020-03-30%20at%2023.03.38.png" />
+
+  </br>
+  <img width="400" src="https://github.com/wallacemancciny/OSMDB/blob/master/Prints/Screen%20Shot%202020-03-30%20at%2023.03.47.png" />
+
+  </br>
+  <img width="400" src="https://github.com/wallacemancciny/OSMDB/blob/master/Prints/Screen%20Shot%202020-03-30%20at%2023.03.58.png" />
+
+  </br>
+  <img width="400" src="https://github.com/wallacemancciny/OSMDB/blob/master/Prints/Screen%20Shot%202020-03-30%20at%2023.04.11.png" />
 </div>
 
 ## 🚀 Getting started
@@ -52,7 +64,7 @@ First of all, you need to download and install the latest Service Estudio at the
 
   After that, you can clone this repository with the following command below:
 
-git clone https:
+git clone https://github.com/wallacemancciny/OSMDB.git
 
 After downloading the repository to your machine, with the service studio open, upload the file with the extension ".opa" and publish the project.
 
