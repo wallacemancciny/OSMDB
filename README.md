@@ -8,8 +8,9 @@ Os usuários do aplicativo de filme poderão acessar todas essas informações, 
 Os administradores do aplicativo de filmes poderão adicionar novos (ou editar) filmes, como também atores ou membros da equipe e associe-os a um filme.
 
 <h1 align="center">
-    <img alt="OSMDB - Catálogo de Filmes" width="500" src="https://github.com/wallacemancciny/OSMDB/blob/master/Prints/capa.png" />
     OSMDB 
+    <img alt="OSMDB - Catálogo de Filmes" width="500" src="https://github.com/wallacemancciny/OSMDB/blob/master/Prints/capa.png" />
+    
 </h1>
 
 <h3 align="center">
