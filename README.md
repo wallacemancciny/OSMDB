@@ -8,8 +8,7 @@ Os usuários do aplicativo de filme poderão acessar todas essas informações, 
 Os administradores do aplicativo de filmes poderão adicionar novos (ou editar) filmes, como também atores ou membros da equipe e associe-os a um filme.
 
 <h1 align="center">
-    <img alt="OSMDB - Catálogo de Filmes" src="https://github.com/wallacemancciny/OSMDB/blob/master/Prints/capa.png" />
-    <br>
+    <img alt="OSMDB - Catálogo de Filmes" width="500" src="https://github.com/wallacemancciny/OSMDB/blob/master/Prints/capa.png" />
     OSMDB 
 </h1>
 
@@ -43,7 +42,6 @@ This project was developed with outsystems, the platform has all the most advanc
 
 Below are some screenshots of the application in operation.
 
-    </br>
   <img width="400" src="https://github.com/wallacemancciny/OSMDB/blob/master/Prints/Screen%20Shot%202020-03-30%20at%2023.09.08.png" />
     </br>
   <img width="400" src="https://github.com/wallacemancciny/OSMDB/blob/master/Prints/Screen%20Shot%202020-03-30%20at%2023.03.38.png" />
