@@ -1,5 +1,5 @@
 # OSMDB - Catálogo de Filmes
-O aplicativo se concentrará na criação e manutenção de um filme
+O aplicativo se concentra na criação e manutenção de um filme
 banco de dados, bem como as pessoas envolvidas no filme (elenco e equipe). Os filmes terão
 informações como título, resumo da trama e gênero. As pessoas terão informações biográficas
 como nome e data de nascimento, bem como conexão com os filmes em que trabalharam e em
