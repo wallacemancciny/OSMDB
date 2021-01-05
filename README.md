@@ -37,7 +37,28 @@ actors or members of the crew and associate them with a movie.
 
 ## 🖥 Technologies
 
-This project was developed with outsystems, the platform has all the most advanced technologies in the market such as ajax, java script, C #, .net, sql server, oracle, soap, api rest and etc.
+The project was developed with the following technologies:
+
+    -- Data Relationships
+    -- Architecture
+    -- Bootstrap Data and Entities
+    -- Preparation and Server Actions
+    -- Style Sheets Order
+    -- Input Validations
+    -- Users, Roles and Groups
+    -- Screen Lifecycle
+    -- Built-in Widgets
+    -- Logic
+    -- Entities and Static Entites
+    -- Data Types
+    -- Debug
+    -- Session Variables
+    -- Site Properties
+    -- SQL Queries
+    -- Aggregates
+    -- Rich Widgets
+    -- Exceptions Handling
+    -- Web Blocks
 
 ## 👁 Preview
 
